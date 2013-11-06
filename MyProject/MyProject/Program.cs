@@ -10,6 +10,10 @@ namespace MyProject
     {
         static void Main(string[] args)
         {
+            int myVariable;
+
+            Console.WriteLine("Hello World");
+            Console.ReadLine();
         }
     }
 }
